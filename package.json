@@ -1,0 +1,14 @@
+{
+  "name": "betproject",
+  "version": "1.0.0",
+  "description": "Betproject with node and react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thayane",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
